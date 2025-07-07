@@ -8,6 +8,7 @@ My Foundry VTT modules:
 * [PF2e Ranged Combat](https://github.com/JDCalvert/FVTT-PF2e-Ranged-Combat)
 * [PF2e Kineticist's Companion](https://github.com/JDCalvert/pf2e-kineticists-companion)
 * [PF2e Convenient Consumables](https://github.com/JDCalvert/pf2e-convenient-consumables)
+* [Library: Item Select Dialog](https://github.com/JDCalvert/lib-item-select-dialog)
 * [Sense Walls](https://github.com/JDCalvert/FVTT-Sense-Walls)
 
 My [Factorio](https://factorio.com/) mods:
